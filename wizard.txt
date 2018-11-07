@@ -1,6 +1,6 @@
 id="plugin.program.turtlestv"
-version="4.1.10"
-zip="https://raw.githubusercontent.com/turtlestv/zips/master/plugin.program.turtlestv/plugin.program.turtlestv-4.1.10.zip"
+version="4.1.12"
+zip="https://www.turtlestv.net/zips/plugin.program.turtlestv/plugin.program.turtlestv-4.1.12.zip"
 
 name="---TurtlesTV---FREE---"
 version="4.2.10"
